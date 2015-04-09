@@ -1,4 +1,5 @@
 figures/IMG_20150409_134156/IMG_20150409_134156.jpg
 Background.tex
 subsection_Wire_Cutting_The_plate__.tex
+figures/IMG_20150409_134709-v2/IMG_20150409_134709-v2.jpg
 subsection_Casting__.tex
