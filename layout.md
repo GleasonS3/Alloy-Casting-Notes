@@ -1,4 +1,3 @@
-abstract_abstract_test__.tex
 Background.tex
 subsection_Wire_Cutting_The_plate__.tex
 figures/IMG_20150409_134709-v1/IMG_20150409_134709-v1.jpg
