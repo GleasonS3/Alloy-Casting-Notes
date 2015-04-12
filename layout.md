@@ -4,4 +4,4 @@ figures/IMG_20150409_134709-v1/IMG_20150409_134709-v1.jpg
 subsection_Casting_The_MgZnCa_alloy__.tex
 subsubsection_Ingot_heating_cycle_This__.tex
 subsubsection_Notes_for_induction_melting__.tex
-section_Testing_Table_section_begin__.tex
+section_Testing_Table_section_Just__.tex
