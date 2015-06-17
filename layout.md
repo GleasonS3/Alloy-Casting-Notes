@@ -5,3 +5,4 @@ subsection_Casting_The_MgZnCa_alloy__.tex
 subsubsection_Ingot_heating_cycle_This__.tex
 subsubsection_Notes_for_induction_melting__.tex
 section_Appendix_subsection_Phase_Diagram__.tex
+figures/MgZnCa300CPhaseDiagram-SprMats/MgZnCa300CPhaseDiagram-SprMats.png
