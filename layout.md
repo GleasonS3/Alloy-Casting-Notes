@@ -6,3 +6,4 @@ subsubsection_Ingot_heating_cycle_This__.tex
 subsubsection_Notes_for_induction_melting__.tex
 section_Appendix_subsection_Phase_Diagram__.tex
 figures/MgZnCa300CPhaseDiagram-SprMats/MgZnCa300CPhaseDiagram-SprMats.png
+figures/MgZnCaLiquidPhase-SprMats/MgZnCaLiquidPhase-SprMats.png
