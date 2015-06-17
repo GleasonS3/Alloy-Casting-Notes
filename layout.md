@@ -9,3 +9,4 @@ figures/MgZnCa300CPhaseDiagram-SprMats/MgZnCa300CPhaseDiagram-SprMats.png
 Block__171071434525097075.tex
 begin_tabular_c_c_c__.tex
 figures/MgZnCaLiquidPhase-SprMats/MgZnCaLiquidPhase-SprMats.png
+subsection_MgZnCa_Alloys_Composition_T_g__.tex
